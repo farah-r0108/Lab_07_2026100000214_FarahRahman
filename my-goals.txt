@@ -1,0 +1,5 @@
+ Three goals.
+
+1. Learn programming.
+2. Improve problem-solving skills.
+3. Learn Combat based game development.
